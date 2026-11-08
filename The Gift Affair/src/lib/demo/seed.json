@@ -1,0 +1,737 @@
+{
+  "categories": [
+    {
+      "id": "2bd49f41-d5b7-523a-a6c3-5c5cb9e3ae96",
+      "name": "For the Couple",
+      "slug": "for-the-couple",
+      "description": "Gifts the two of them will use and enjoy together.",
+      "imagePath": "/images/categories/for-the-couple.jpg",
+      "sortOrder": 0,
+      "isActive": true
+    },
+    {
+      "id": "42a22d9a-41bd-5921-bc48-ea9644be71ca",
+      "name": "Personalized Gifts",
+      "slug": "personalized-gifts",
+      "description": "Names, dates and details that make a gift theirs alone.",
+      "imagePath": "/images/categories/personalized-gifts.jpg",
+      "sortOrder": 1,
+      "isActive": true
+    },
+    {
+      "id": "1b9c2d22-e956-59a4-8bb4-9293e95a6bc4",
+      "name": "Home & Living",
+      "slug": "home-and-living",
+      "description": "Pieces for the first home they build together.",
+      "imagePath": "/images/categories/home-and-living.jpg",
+      "sortOrder": 2,
+      "isActive": true
+    },
+    {
+      "id": "1d89551f-7bea-59ff-aa0a-c5071c4b2654",
+      "name": "Gift Hampers",
+      "slug": "gift-hampers",
+      "description": "Thoughtfully filled baskets and trays, ready to give.",
+      "imagePath": "/images/categories/gift-hampers.jpg",
+      "sortOrder": 3,
+      "isActive": true
+    },
+    {
+      "id": "ca1f38f7-9968-5a86-8719-00dbf8d09489",
+      "name": "Keepsakes",
+      "slug": "keepsakes",
+      "description": "Things they'll keep long after the wedding season ends.",
+      "imagePath": "/images/categories/keepsakes.jpg",
+      "sortOrder": 4,
+      "isActive": true
+    },
+    {
+      "id": "92cffad5-b020-5a4a-b7b0-4cd293218fee",
+      "name": "Handmade Gifts",
+      "slug": "handmade-gifts",
+      "description": "Made by hand, by makers and artisans.",
+      "imagePath": "/images/categories/handmade-gifts.jpg",
+      "sortOrder": 5,
+      "isActive": true
+    }
+  ],
+  "tags": [
+    {
+      "id": "30bb559b-b5a3-5100-bbbf-e61840ee5bc6",
+      "name": "Holud",
+      "slug": "holud",
+      "tagType": "occasion",
+      "description": "Bright, joyful gifts for the turmeric ceremony.",
+      "sortOrder": 0,
+      "isActive": true
+    },
+    {
+      "id": "aee6e544-064e-509b-84ac-1b543ea94083",
+      "name": "Wedding Ceremony",
+      "slug": "wedding-ceremony",
+      "tagType": "occasion",
+      "description": "Meaningful gifts for the wedding day itself.",
+      "sortOrder": 1,
+      "isActive": true
+    },
+    {
+      "id": "d35293dc-9470-5f01-838a-c55f0f592d85",
+      "name": "Reception",
+      "slug": "reception",
+      "tagType": "occasion",
+      "description": "Gifts to bring to the reception or walima.",
+      "sortOrder": 2,
+      "isActive": true
+    },
+    {
+      "id": "c1663b47-357d-5da4-92a9-ac97e533c708",
+      "name": "The Couple",
+      "slug": "the-couple",
+      "tagType": "recipient",
+      "description": null,
+      "sortOrder": 3,
+      "isActive": true
+    },
+    {
+      "id": "0cb6cc0f-5ea7-53a5-ac50-5ca8e6cca5bd",
+      "name": "The Bride",
+      "slug": "the-bride",
+      "tagType": "recipient",
+      "description": null,
+      "sortOrder": 4,
+      "isActive": true
+    },
+    {
+      "id": "3e6f8d8c-abf2-5503-9805-9e5910f7b08a",
+      "name": "The Groom",
+      "slug": "the-groom",
+      "tagType": "recipient",
+      "description": null,
+      "sortOrder": 5,
+      "isActive": true
+    },
+    {
+      "id": "b7d8a928-1f62-536b-b1c0-26591cc51e3a",
+      "name": "The Family",
+      "slug": "the-family",
+      "tagType": "recipient",
+      "description": null,
+      "sortOrder": 6,
+      "isActive": true
+    },
+    {
+      "id": "5640717f-970a-53b1-9143-e74a8e3bc49d",
+      "name": "Budget-friendly",
+      "slug": "budget-friendly",
+      "tagType": "budget",
+      "description": "Under ৳3,000",
+      "sortOrder": 7,
+      "isActive": true
+    },
+    {
+      "id": "5aed21ee-6c61-54af-8f59-e25e930dea54",
+      "name": "Mid-range",
+      "slug": "mid-range",
+      "tagType": "budget",
+      "description": "৳3,000 to ৳10,000",
+      "sortOrder": 8,
+      "isActive": true
+    },
+    {
+      "id": "4e3dda5a-aabd-5b5a-89bb-58c3c29eccec",
+      "name": "Premium",
+      "slug": "premium",
+      "tagType": "budget",
+      "description": "Over ৳10,000",
+      "sortOrder": 9,
+      "isActive": true
+    }
+  ],
+  "gifts": [
+    {
+      "id": "657c0488-1092-5cfe-8267-2c3ec9a85e35",
+      "slug": "personalised-home-nameplate",
+      "title": "Personalised nameplate for their first home",
+      "summary": "A door nameplate with both their names, made for the home they're starting together.",
+      "description": "A nameplate in wood, brass or hand-painted ceramic with the couple's names, or their family name in Bangla and English. Ask the maker for a proof before it's produced, and check the spelling with someone close to the couple.\n\nMost makers need one to two weeks, so order well before the wedding.",
+      "whyThoughtful": "It's one of the first things they'll see every time they come home, and it marks the start of a shared address.",
+      "keywords": "door sign, name board, house, new home, custom",
+      "mainImagePath": "/images/gifts/personalised-home-nameplate.jpg",
+      "imageAlt": "Wooden nameplate with hand-painted names beside a cream front door and a marigold garland",
+      "externalUrl": "https://example.com/makers/nameplates",
+      "sourceName": "Example Maker (placeholder)",
+      "isFeatured": true,
+      "daysAgo": 2,
+      "art": "nameplate",
+      "categorySlugs": [
+        "for-the-couple",
+        "personalized-gifts",
+        "home-and-living"
+      ],
+      "occasionSlugs": [
+        "wedding-ceremony",
+        "reception"
+      ],
+      "recipientSlugs": [
+        "the-couple"
+      ],
+      "budgetSlug": "mid-range"
+    },
+    {
+      "id": "a7e4940f-8d0e-5371-ab83-6965cd08803d",
+      "slug": "nakshi-kantha-throw",
+      "title": "Hand-stitched nakshi kantha throw",
+      "summary": "A layered cotton throw with traditional running-stitch motifs, made by kantha artisans.",
+      "description": "Nakshi kantha is made by layering soft cotton and stitching it with fine running stitches into motifs of flowers, birds and everyday life. A throw-sized piece works on a bed or a sofa.\n\nLook for pieces where the maker is named, and ask how to wash it: most kantha should be washed gently by hand.",
+      "whyThoughtful": "It carries a craft tradition into their home and gets softer with years of use.",
+      "keywords": "kantha, quilt, blanket, embroidery, artisan, bangladeshi craft",
+      "mainImagePath": "/images/gifts/nakshi-kantha-throw.jpg",
+      "imageAlt": "Nakshi kantha throw embroidered with coral and blue flowers and birds, draped over a wooden bench",
+      "externalUrl": null,
+      "sourceName": null,
+      "isFeatured": true,
+      "daysAgo": 5,
+      "art": "quilt",
+      "categorySlugs": [
+        "handmade-gifts",
+        "home-and-living"
+      ],
+      "occasionSlugs": [
+        "wedding-ceremony",
+        "reception"
+      ],
+      "recipientSlugs": [
+        "the-couple",
+        "the-family"
+      ],
+      "budgetSlug": "premium"
+    },
+    {
+      "id": "1f2c2c29-3986-5ec0-983e-6597180c7a8a",
+      "slug": "holud-dala-flower-tray",
+      "title": "Holud dala tray with fresh flowers",
+      "summary": "A decorated tray of flowers, sweets and small gifts, carried in for the holud.",
+      "description": "A holud dala is a decorated tray, often in yellow and orange, arranged with marigolds, sweets, turmeric paste and small gifts for the bride or groom. Florists and event decorators can make one to order, or you can arrange your own.\n\nCoordinate with the family: some holud ceremonies have a set number of trays.",
+      "whyThoughtful": "It's part of the ceremony itself, so it's used and seen on the day rather than put away.",
+      "keywords": "dala, tray, marigold, flowers, sweets, turmeric, gaye holud",
+      "mainImagePath": "/images/gifts/holud-dala-flower-tray.jpg",
+      "imageAlt": "Holud tray of marigolds, a bowl of turmeric paste, sweets and a small wrapped gift on yellow cloth",
+      "externalUrl": null,
+      "sourceName": null,
+      "isFeatured": false,
+      "daysAgo": 9,
+      "art": "tray",
+      "categorySlugs": [
+        "gift-hampers"
+      ],
+      "occasionSlugs": [
+        "holud"
+      ],
+      "recipientSlugs": [
+        "the-bride",
+        "the-groom"
+      ],
+      "budgetSlug": "mid-range"
+    },
+    {
+      "id": "38faf017-7b3a-550f-ac39-847a6f9d928b",
+      "slug": "wedding-date-star-map",
+      "title": "Star map of their wedding night",
+      "summary": "A print of the night sky as it looked over their city on the wedding date.",
+      "description": "Star map prints show the positions of the stars at a chosen date, time and place, usually with a short caption. They come as digital files you can print locally, or as framed prints.\n\nYou'll need the wedding date and city; the time can be approximate.",
+      "whyThoughtful": "It turns a date they'll always remember into something they can hang on the wall.",
+      "keywords": "star map, night sky, print, poster, date, custom",
+      "mainImagePath": "/images/gifts/wedding-date-star-map.jpg",
+      "imageAlt": "Framed star map of a night sky in navy and white, on a shelf beside pink roses",
+      "externalUrl": null,
+      "sourceName": null,
+      "isFeatured": true,
+      "daysAgo": 1,
+      "art": "starmap",
+      "categorySlugs": [
+        "personalized-gifts",
+        "keepsakes"
+      ],
+      "occasionSlugs": [
+        "reception",
+        "wedding-ceremony"
+      ],
+      "recipientSlugs": [
+        "the-couple"
+      ],
+      "budgetSlug": "budget-friendly"
+    },
+    {
+      "id": "595df3bc-47aa-50db-850a-376fbf8b08f1",
+      "slug": "brass-diya-candle-set",
+      "title": "Brass diya and candle set",
+      "summary": "Polished brass lamps with candles for festive evenings at home.",
+      "description": "A small set of brass diyas or candle holders adds warmth to a new home and comes out again for every festival. Pair them with unscented candles if you're not sure of the couple's taste.",
+      "whyThoughtful": "Light is a gift that shows up at every celebration that follows.",
+      "keywords": "brass, diya, lamp, candle, decor",
+      "mainImagePath": "/images/gifts/brass-diya-candle-set.jpg",
+      "imageAlt": "Brass diyas and candle holders with lit candles on a wooden table scattered with marigold petals",
+      "externalUrl": null,
+      "sourceName": null,
+      "isFeatured": false,
+      "daysAgo": 12,
+      "art": "candle",
+      "categorySlugs": [
+        "home-and-living"
+      ],
+      "occasionSlugs": [
+        "holud",
+        "wedding-ceremony"
+      ],
+      "recipientSlugs": [
+        "the-couple",
+        "the-family"
+      ],
+      "budgetSlug": "budget-friendly"
+    },
+    {
+      "id": "14703e1c-0468-5920-a4a0-780603fff94c",
+      "slug": "illustrated-couple-portrait",
+      "title": "Illustrated portrait of the couple",
+      "summary": "A hand-drawn or painted portrait of the two of them, from a photo you choose.",
+      "description": "Illustrators can work from an engagement or candid photo to create a portrait in watercolour, ink or a flat digital style. Many offer a framed print as well as the original.\n\nAsk to see the artist's previous work in the style you want, and leave time for one round of changes.",
+      "whyThoughtful": "A portrait shows you thought about them as a pair, not just about what they might need.",
+      "keywords": "portrait, illustration, painting, drawing, art, photo",
+      "mainImagePath": "/images/gifts/illustrated-couple-portrait.jpg",
+      "imageAlt": "Watercolour illustration of a bride in a red sari and a groom in a cream sherwani, framed on an easel",
+      "externalUrl": null,
+      "sourceName": null,
+      "isFeatured": true,
+      "daysAgo": 3,
+      "art": "portrait",
+      "categorySlugs": [
+        "personalized-gifts",
+        "keepsakes",
+        "handmade-gifts"
+      ],
+      "occasionSlugs": [
+        "wedding-ceremony",
+        "reception"
+      ],
+      "recipientSlugs": [
+        "the-couple"
+      ],
+      "budgetSlug": "mid-range"
+    },
+    {
+      "id": "463addc4-7040-5a3a-8767-a457228c3794",
+      "slug": "holud-self-care-hamper",
+      "title": "Self-care hamper for the holud week",
+      "summary": "Gentle skincare, herbal tea and a soft towel for the busy days before the wedding.",
+      "description": "The days around the holud are long and full. A hamper with fragrance-free skincare, herbal tea, a sleep mask and a soft towel gives the bride or groom a moment to rest.\n\nAvoid strong fragrances and anything that might react with mehendi or turmeric paste.",
+      "whyThoughtful": "It looks after the person, not just the occasion.",
+      "keywords": "self care, spa, skincare, tea, relax, mehendi",
+      "mainImagePath": "/images/gifts/holud-self-care-hamper.jpg",
+      "imageAlt": "Woven basket with skincare jars, a soft towel, a lavender sleep mask, herbal tea and jasmine",
+      "externalUrl": null,
+      "sourceName": null,
+      "isFeatured": false,
+      "daysAgo": 6,
+      "art": "hamper",
+      "categorySlugs": [
+        "gift-hampers"
+      ],
+      "occasionSlugs": [
+        "holud"
+      ],
+      "recipientSlugs": [
+        "the-bride",
+        "the-groom"
+      ],
+      "budgetSlug": "mid-range"
+    },
+    {
+      "id": "a438b55b-8fb2-57af-954a-19897b8cf841",
+      "slug": "engraved-keepsake-box",
+      "title": "Engraved keepsake box for wedding cards",
+      "summary": "A wooden box engraved with their initials and date, for cards and small mementos.",
+      "description": "Wedding cards, a pressed flower, the first photo strip: a keepsake box keeps them together. Choose solid wood with a lid that closes well, and keep the engraving simple.",
+      "whyThoughtful": "It gives the small things from the wedding a place to stay.",
+      "keywords": "memory box, engraved, wooden, initials, cards",
+      "mainImagePath": "/images/gifts/engraved-keepsake-box.jpg",
+      "imageAlt": "Open wooden keepsake box with an engraved lid, holding wedding cards, a ribbon and a dried rose",
+      "externalUrl": null,
+      "sourceName": null,
+      "isFeatured": false,
+      "daysAgo": 8,
+      "art": "keepbox",
+      "categorySlugs": [
+        "keepsakes",
+        "personalized-gifts"
+      ],
+      "occasionSlugs": [
+        "wedding-ceremony"
+      ],
+      "recipientSlugs": [
+        "the-couple"
+      ],
+      "budgetSlug": "budget-friendly"
+    },
+    {
+      "id": "ca7b1fec-ee02-5c5a-86d3-90aace81dbf6",
+      "slug": "jamdani-table-runner",
+      "title": "Handwoven jamdani-inspired table runner",
+      "summary": "A fine woven runner with jamdani-style motifs for their dining table.",
+      "description": "Jamdani weaving creates fine, sheer patterns directly on the loom. A runner inspired by jamdani motifs brings that craft to a dining table and is easier to use every day than a sari-length piece.",
+      "whyThoughtful": "It brings a celebrated weaving tradition into the meals they'll share.",
+      "keywords": "jamdani, table runner, woven, dining, textile",
+      "mainImagePath": "/images/gifts/jamdani-table-runner.jpg",
+      "imageAlt": "Off-white table runner with sage green jamdani-style motifs on a wooden dining table",
+      "externalUrl": null,
+      "sourceName": null,
+      "isFeatured": false,
+      "daysAgo": 14,
+      "art": "runner",
+      "categorySlugs": [
+        "handmade-gifts",
+        "home-and-living"
+      ],
+      "occasionSlugs": [
+        "reception"
+      ],
+      "recipientSlugs": [
+        "the-couple"
+      ],
+      "budgetSlug": "mid-range"
+    },
+    {
+      "id": "de9ea738-75c0-52e7-aa95-fd007ac94ef3",
+      "slug": "tea-lovers-hamper",
+      "title": "Tea lover's hamper with ceramic cups",
+      "summary": "Loose-leaf teas, a pair of ceramic cups and a small strainer, packed in a basket.",
+      "description": "Pick two or three teas with different moods: a strong morning black tea, a fragrant green tea and a caffeine-free herbal blend. Add a matching pair of cups and a reusable strainer.",
+      "whyThoughtful": "It's an invitation to slow down together after the wedding rush.",
+      "keywords": "tea, cups, hamper, basket, morning",
+      "mainImagePath": "/images/gifts/tea-lovers-hamper.jpg",
+      "imageAlt": "Wicker basket with three tea tins, two pale green cups, a tea strainer and a napkin",
+      "externalUrl": null,
+      "sourceName": null,
+      "isFeatured": false,
+      "daysAgo": 11,
+      "art": "mugs",
+      "categorySlugs": [
+        "gift-hampers",
+        "for-the-couple"
+      ],
+      "occasionSlugs": [
+        "reception"
+      ],
+      "recipientSlugs": [
+        "the-couple"
+      ],
+      "budgetSlug": "mid-range"
+    },
+    {
+      "id": "a1f24fd6-e260-540a-8204-ed4da910e2f6",
+      "slug": "groom-grooming-kit",
+      "title": "Grooming kit in a wooden case",
+      "summary": "A beard oil, comb, and shaving set in a case he can keep on the shelf.",
+      "description": "A practical gift for the groom before the holud: a quality comb, a gentle beard oil or shaving cream and a small mirror, packed in a reusable wooden case.",
+      "whyThoughtful": "It's useful during the wedding days and long after.",
+      "keywords": "grooming, beard, shaving, men, kit",
+      "mainImagePath": "/images/gifts/groom-grooming-kit.jpg",
+      "imageAlt": "Wooden case holding a comb, shaving brush, razor, beard oil bottle and a small round mirror",
+      "externalUrl": null,
+      "sourceName": null,
+      "isFeatured": false,
+      "daysAgo": 10,
+      "art": "kit",
+      "categorySlugs": [
+        "gift-hampers"
+      ],
+      "occasionSlugs": [
+        "holud"
+      ],
+      "recipientSlugs": [
+        "the-groom"
+      ],
+      "budgetSlug": "mid-range"
+    },
+    {
+      "id": "0c480bad-f9f1-56a5-bd89-ba62204aa359",
+      "slug": "family-recipe-book",
+      "title": "Recipe book filled by both families",
+      "summary": "A blank recipe book with favourite dishes written in by relatives from both sides.",
+      "description": "Pass a hardcover recipe book around both families before the wedding and ask each person to write one recipe they love, with a note to the couple. Start early: this one takes a few weeks.",
+      "whyThoughtful": "It brings two families' kitchens together on the same pages.",
+      "keywords": "recipe, cookbook, family, handwritten, food",
+      "mainImagePath": "/images/gifts/family-recipe-book.jpg",
+      "imageAlt": "Open recipe notebook with handwritten pages and family photos next to a bowl of spices",
+      "externalUrl": null,
+      "sourceName": null,
+      "isFeatured": true,
+      "daysAgo": 4,
+      "art": "book",
+      "categorySlugs": [
+        "handmade-gifts",
+        "keepsakes",
+        "for-the-couple"
+      ],
+      "occasionSlugs": [
+        "wedding-ceremony"
+      ],
+      "recipientSlugs": [
+        "the-couple"
+      ],
+      "budgetSlug": "budget-friendly"
+    },
+    {
+      "id": "686071f0-6ec1-5b3b-86da-70e733b95269",
+      "slug": "handmade-ceramic-mugs",
+      "title": "Pair of handmade ceramic mugs",
+      "summary": "Two wheel-thrown mugs from a local potter, a little different from each other.",
+      "description": "Handmade mugs are never quite identical, which makes a pair feel right for a couple. Check that the glaze is food-safe and dishwasher-safe if they'll want that.",
+      "whyThoughtful": "A small, everyday object that reminds them of the day each morning.",
+      "keywords": "mugs, ceramic, pottery, coffee, tea, handmade",
+      "mainImagePath": "/images/gifts/handmade-ceramic-mugs.jpg",
+      "imageAlt": "Two handmade mugs, one coral and one sage green, with steaming coffee on a linen tablecloth",
+      "externalUrl": null,
+      "sourceName": null,
+      "isFeatured": false,
+      "daysAgo": 15,
+      "art": "mugs",
+      "categorySlugs": [
+        "handmade-gifts",
+        "for-the-couple"
+      ],
+      "occasionSlugs": [
+        "reception"
+      ],
+      "recipientSlugs": [
+        "the-couple"
+      ],
+      "budgetSlug": "budget-friendly"
+    },
+    {
+      "id": "8a9f93ec-95fd-5f35-8f85-53655fce59e0",
+      "slug": "name-calligraphy-frame",
+      "title": "Framed calligraphy of their names",
+      "summary": "Their names written by a calligrapher in Bangla, English or Arabic script, framed.",
+      "description": "A calligrapher can write the couple's names, a date or a short blessing in the script that means most to them. Ask for an archival paper and a frame that suits their walls.",
+      "whyThoughtful": "Handwritten names feel personal in a way printed ones don't.",
+      "keywords": "calligraphy, names, frame, art, bangla, arabic",
+      "mainImagePath": "/images/gifts/name-calligraphy-frame.jpg",
+      "imageAlt": "Framed black and gold brush calligraphy artwork on a cream wall above a console table",
+      "externalUrl": null,
+      "sourceName": null,
+      "isFeatured": false,
+      "daysAgo": 13,
+      "art": "frame",
+      "categorySlugs": [
+        "personalized-gifts",
+        "home-and-living"
+      ],
+      "occasionSlugs": [
+        "wedding-ceremony"
+      ],
+      "recipientSlugs": [
+        "the-couple"
+      ],
+      "budgetSlug": "mid-range"
+    },
+    {
+      "id": "8dd86704-dbe3-514a-af63-73041eb549dc",
+      "slug": "weekend-getaway",
+      "title": "A weekend away after the wedding",
+      "summary": "A short stay somewhere quiet, for when the celebrations are finally over.",
+      "description": "Book or gift a voucher for a resort, tea estate stay or seaside guesthouse, with flexible dates. Groups of friends often put this together.\n\nCheck the cancellation terms and how long the voucher stays valid.",
+      "whyThoughtful": "After weeks of hosting, time alone together can be the most welcome gift.",
+      "keywords": "travel, holiday, resort, honeymoon, voucher, trip",
+      "mainImagePath": "/images/gifts/weekend-getaway.jpg",
+      "imageAlt": "Veranda with two wicker chairs and cups of tea overlooking tea garden hills at sunset",
+      "externalUrl": null,
+      "sourceName": null,
+      "isFeatured": true,
+      "daysAgo": 7,
+      "art": "voucher",
+      "categorySlugs": [
+        "for-the-couple"
+      ],
+      "occasionSlugs": [
+        "reception"
+      ],
+      "recipientSlugs": [
+        "the-couple"
+      ],
+      "budgetSlug": "premium"
+    },
+    {
+      "id": "cd57a5cc-de4a-53f0-9ef5-fce9122a639a",
+      "slug": "photo-frame-for-first-dance",
+      "title": "Silver-plated frame for a wedding photo",
+      "summary": "An elegant frame ready for their favourite photo from the day.",
+      "description": "Give the frame now and let the couple choose the photo later. A classic silver-plated or brass frame suits most homes; include a small card saying it's waiting for a wedding picture.",
+      "whyThoughtful": "It leaves room for the memory they'll want to keep most.",
+      "keywords": "photo frame, silver, picture, wedding photo",
+      "mainImagePath": "/images/gifts/photo-frame-for-first-dance.jpg",
+      "imageAlt": "Ornate silver photo frame on a cream dresser beside white roses and a satin ribbon",
+      "externalUrl": null,
+      "sourceName": null,
+      "isFeatured": false,
+      "daysAgo": 16,
+      "art": "frame",
+      "categorySlugs": [
+        "keepsakes"
+      ],
+      "occasionSlugs": [
+        "reception"
+      ],
+      "recipientSlugs": [
+        "the-couple",
+        "the-family"
+      ],
+      "budgetSlug": "mid-range"
+    },
+    {
+      "id": "6719c627-70f1-57ff-9aeb-fc89422de9cd",
+      "slug": "plants-in-painted-pots",
+      "title": "Indoor plants in hand-painted pots",
+      "summary": "Two easy-care plants in pots painted by a local artist.",
+      "description": "Choose forgiving plants, such as a snake plant or pothos, that cope with busy weeks. Hand-painted pots make it feel like a gift rather than a delivery.",
+      "whyThoughtful": "Something living that grows along with their new home.",
+      "keywords": "plants, pots, green, home, indoor",
+      "mainImagePath": "/images/gifts/plants-in-painted-pots.jpg",
+      "imageAlt": "Snake plant and pothos in hand-painted terracotta pots on a sunny windowsill",
+      "externalUrl": null,
+      "sourceName": null,
+      "isFeatured": false,
+      "daysAgo": 17,
+      "art": "plant",
+      "categorySlugs": [
+        "home-and-living",
+        "handmade-gifts"
+      ],
+      "occasionSlugs": [
+        "reception"
+      ],
+      "recipientSlugs": [
+        "the-couple"
+      ],
+      "budgetSlug": "budget-friendly"
+    },
+    {
+      "id": "4234756a-cf45-5dde-aa44-58f551967db4",
+      "slug": "bridal-jewellery-box",
+      "title": "Velvet-lined jewellery box for the bride",
+      "summary": "A sturdy, lined box to keep wedding jewellery safe and organised.",
+      "description": "Wedding jewellery is often given by both families and needs a safe home. Look for a box with soft lining, separate ring and earring sections and a lock or secure clasp.",
+      "whyThoughtful": "It protects pieces that are often family heirlooms.",
+      "keywords": "jewellery, jewelry box, bride, storage, velvet",
+      "mainImagePath": "/images/gifts/bridal-jewellery-box.jpg",
+      "imageAlt": "Lavender velvet jewellery box holding gold bangles, jhumka earrings and a ring",
+      "externalUrl": null,
+      "sourceName": null,
+      "isFeatured": false,
+      "daysAgo": 18,
+      "art": "jewelbox",
+      "categorySlugs": [
+        "keepsakes"
+      ],
+      "occasionSlugs": [
+        "holud",
+        "wedding-ceremony"
+      ],
+      "recipientSlugs": [
+        "the-bride"
+      ],
+      "budgetSlug": "premium"
+    },
+    {
+      "id": "25856c95-fdb3-5cf7-bfa2-4ca055e68771",
+      "slug": "his-and-hers-watch-set",
+      "title": "Men's and women's watch set for the couple",
+      "summary": "A matching pair of watches, one for each of them, presented together in a single gift box.",
+      "description": "Choose two watches from the same collection, or two that share a colour or material, so they read as a pair: a classic leather-strap watch for him and a slimmer bracelet watch for her is a popular combination.\n\nIf you can, find out each person's wrist size or ask the shop about adjusting the strap after the wedding. A simple engraving of the wedding date on the back makes the set personal without changing how the watches look.",
+      "whyThoughtful": "They'll wear them every day, and each time they check the time they'll have something in common, starting from the day they married.",
+      "keywords": "watch, wristwatch, couple watches, his and hers, men, women, pair, engraved",
+      "mainImagePath": "/images/gifts/his-and-hers-watch-set.jpg",
+      "imageAlt": "A men's leather-strap watch and a women's rose-gold bracelet watch together in an open gift box with a coral ribbon",
+      "externalUrl": null,
+      "sourceName": null,
+      "isFeatured": true,
+      "daysAgo": 0,
+      "art": "watch",
+      "categorySlugs": [
+        "for-the-couple"
+      ],
+      "occasionSlugs": [
+        "wedding-ceremony"
+      ],
+      "recipientSlugs": [
+        "the-couple"
+      ],
+      "budgetSlug": "premium"
+    },
+    {
+      "id": "e7c1a411-f579-57fc-a9f5-9b370edb970d",
+      "slug": "handmade-memories-book",
+      "title": "Handmade memories book",
+      "summary": "A scrapbook of photos, notes and keepsakes from the people who love them, made by hand.",
+      "description": "Collect photos of the bride or groom growing up, pictures of the couple together, and short handwritten notes from family and friends. Add small keepsakes such as pressed flowers, a ticket or the wedding card, and arrange them in a fabric-covered album.\n\nStart a few weeks before the wedding so there's time to gather everyone's contributions. Leave the last pages blank for photos from the wedding itself.",
+      "whyThoughtful": "It costs little but takes real care, and it tells them how many people were part of their story before the wedding day.",
+      "keywords": "memory book, scrapbook, photo album, memories, family, notes, handmade, diy",
+      "mainImagePath": "/images/gifts/handmade-memories-book.jpg",
+      "imageAlt": "An open handmade scrapbook with family photos, handwritten notes and pressed flowers on a cream table",
+      "externalUrl": null,
+      "sourceName": null,
+      "isFeatured": false,
+      "daysAgo": 0,
+      "art": "book",
+      "categorySlugs": [
+        "personalized-gifts",
+        "handmade-gifts"
+      ],
+      "occasionSlugs": [
+        "wedding-ceremony"
+      ],
+      "recipientSlugs": [
+        "the-bride",
+        "the-groom",
+        "the-family"
+      ],
+      "budgetSlug": "budget-friendly"
+    }
+  ],
+  "guides": [
+    {
+      "id": "5d156d6c-1f4a-5abc-8eeb-49f3246f177d",
+      "slug": "holud-gifts-that-feel-personal",
+      "title": "Holud gifts that feel personal",
+      "introduction": "The holud is the most colourful day of the wedding. These gifts suit its energy and look after the bride or groom in the busy days around it.",
+      "content": "The holud is playful and close-knit, so gifts tend to be smaller and more personal than on the wedding day.\n\nIf you're family, a dala tray is part of the ceremony itself. If you're a friend, something that helps the bride or groom rest is always welcome.\n\nWhatever you choose, keep the colours bright and the wrapping easy to open in a crowd.",
+      "coverImagePath": "/images/guides/holud-gifts-that-feel-personal.jpg",
+      "coverImageAlt": "Holud gifts on a yellow cloth: a marigold tray, a self-care basket, a grooming case, diyas and a jewellery box",
+      "giftSlugs": [
+        "holud-dala-flower-tray",
+        "holud-self-care-hamper",
+        "groom-grooming-kit",
+        "brass-diya-candle-set",
+        "bridal-jewellery-box"
+      ],
+      "daysAgo": 2
+    },
+    {
+      "id": "9c5226c9-7536-55bd-8cba-3b78a15851e8",
+      "slug": "thoughtful-gifts-on-a-budget",
+      "title": "Thoughtful gifts on a budget",
+      "introduction": "A meaningful gift doesn't need a big budget. These picks are personal, useful and well under the mid-range.",
+      "content": "When the budget is small, personal details matter most: a name, a date, a handwritten note.\n\nHandmade pieces from local makers often cost less than branded gifts and mean more.\n\nAnd a group of friends can always combine budgets for something bigger.",
+      "coverImagePath": "/images/guides/thoughtful-gifts-on-a-budget.jpg",
+      "coverImageAlt": "Small gifts on sage green: a star map print, ceramic mugs, a wooden box, a notebook and a potted plant",
+      "giftSlugs": [
+        "wedding-date-star-map",
+        "family-recipe-book",
+        "engraved-keepsake-box",
+        "handmade-ceramic-mugs",
+        "plants-in-painted-pots",
+        "brass-diya-candle-set"
+      ],
+      "daysAgo": 6
+    }
+  ]
+}
